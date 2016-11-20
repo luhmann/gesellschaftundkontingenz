@@ -42,6 +42,10 @@ a:visited {
     color: #333;
 }
 
+p {
+    hyphens: auto;
+}
+
 strong {
     color: #333;
 }
