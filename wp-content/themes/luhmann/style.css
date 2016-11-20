@@ -43,6 +43,7 @@ a:visited {
 }
 
 p {
+    -webkit-hyphens: auto;
     hyphens: auto;
 }
 
