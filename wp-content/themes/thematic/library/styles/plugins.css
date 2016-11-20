@@ -2,13 +2,13 @@
    
    Default plugin styles for Thematic
   
--------------------------------------------------------------- */  
+-------------------------------------------------------------- */
 
 /* =Ajax Edit Comments
 -------------------------------------------------------------- */
 
 .edit-comment {
-    margin-bottom:18px;
+    margin-bottom: 18px;
 }
 
 /* =PageNavi
@@ -19,9 +19,9 @@
 /* =WordPress Stats
 -------------------------------------------------------------- */
 
-img#wpstats {   /* hide WordPress Stats smiley */
-    width:0px;
-    height:0px;
-    overflow:hidden
+img#wpstats { /* hide WordPress Stats smiley */
+    width: 0px;
+    height: 0px;
+    overflow: hidden
 }
 

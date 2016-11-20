@@ -4,65 +4,79 @@ DESCRIPTION: Two-column 950px fixed layout with one sidebar right of content
 */
 
 body {
-    min-width:960px;
+    min-width: 960px;
 }
+
 #header {
-    position:relative;
+    position: relative;
 }
+
 #branding {
-    width:940px;
-    margin:0 auto;
+    width: 940px;
+    margin: 0 auto;
 }
+
 #access {
-    position:relative;
-    overflow:hidden;
+    position: relative;
+    overflow: hidden;
 }
+
 .menu {
-    width:940px;
-    margin:0 auto;
+    width: 940px;
+    margin: 0 auto;
 }
+
 #main {
-    width:960px;
-    margin:0 auto;
-    overflow:hidden;
-    position:relative;
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
 }
+
 #container {
-    width:620px;
-    float:left;
+    width: 620px;
+    float: left;
 }
+
 #content {
-    margin:0 0 0 10px;
-    width:540px;
-    overflow:hidden;
+    margin: 0 0 0 10px;
+    width: 540px;
+    overflow: hidden;
 }
+
 .main-aside {
-    width:300px;
-    float:right;
-    position:relative;
-    right:10px;
+    width: 300px;
+    float: right;
+    position: relative;
+    right: 10px;
 }
+
 #secondary {
-    clear:right;
+    clear: right;
 }
-#footer {    
-    clear:both;
+
+#footer {
+    clear: both;
 }
+
 #subsidiary {
-    width:940px;
-    margin:0 auto;
-    overflow:hidden;
+    width: 940px;
+    margin: 0 auto;
+    overflow: hidden;
 }
+
 #subsidiary .aside {
-    width:300px;
-    float:left;
-    margin:0 20px 0 0;
+    width: 300px;
+    float: left;
+    margin: 0 20px 0 0;
 }
+
 #subsidiary #third {
-    margin:0;
+    margin: 0;
 }
+
 #siteinfo {
-    clear:both;
-    width:940px;
-    margin:0 auto;
+    clear: both;
+    width: 940px;
+    margin: 0 auto;
 }
